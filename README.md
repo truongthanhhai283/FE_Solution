@@ -41,6 +41,20 @@
 	4. Add Important Meta Tags
 	
 	5. Add Website Title & Favicon
+
+# 5. Learn CSS Basics
+	1. What Is CSS
+	
+	2. Link CSS To HTML
+	
+	3. Basic CSS Selectors
+	
+	4. CSS Classes & IDs
+	
+	5. CSS Box Model
+	
+	6. CSS Positioning
+	
 	
 	
 	
