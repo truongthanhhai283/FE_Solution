@@ -5,6 +5,13 @@
 		1. https://moqups.com/
 		2. https://wireframes.tumblr.com/
 		3. https://balsamiq.com/
+
+	2. Know About Web Development Resources
+		https://www.w3schools.com/
+		https://jsfiddle.net/
+		https://api.jquery.com/
+		https://realfavicongenerator.net/
+		https://codepen.io/
 	
 	
 
@@ -95,6 +102,6 @@
 			
 	5. Bootstrap Grid Examples
 	
-	
+	6. Know About Web Development Resources
 	
 	
