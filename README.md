@@ -72,7 +72,11 @@
 		plus tones more
 	
 	5. Add jQuery Library
+		Download the uncompressed, development jQuery 3.5.1
 	
 	6. How To Use jQuery
+		$(selector).action();
+		
+		window.onload
 	
 	
