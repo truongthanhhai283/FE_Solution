@@ -54,7 +54,25 @@
 	5. CSS Box Model
 	
 	6. CSS Positioning
+
+# 6. JavaScript & jQuery Basics
+	1. What Is JavaScript
 	
+	2. Link Script To HTML
 	
+	3. JavaScript Basics
+	
+	4. What Is jQuery
+	 - Jquery chaining
+		$(element).hide().show().css({height:25});
+	 - Jquery Plugins
+		carousel slider plugin
+		Image gallery plugin
+		counter up plugin
+		plus tones more
+	
+	5. Add jQuery Library
+	
+	6. How To Use jQuery
 	
 	
