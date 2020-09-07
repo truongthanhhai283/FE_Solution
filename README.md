@@ -30,6 +30,17 @@
 	
 	4. Know About Wireframing Tools
 	
+# 4. Building Basic Structure Of Website
+
+	1. Setup Website Folder File Structure
+	
+	2. What Is HTML
+
+	3. Create Basic HTML5 Page Structure
+		
+	4. Add Important Meta Tags
+	
+	5. Add Website Title & Favicon
 	
 	
 	
