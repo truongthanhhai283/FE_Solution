@@ -86,5 +86,15 @@
 	
 	3. Add Bootstrap Library
 	
+	4. Bootstrap Grid System
+	   Grid 
+		Large -> lg - >=1200px (Large Desktop)
+		Medium -> md - >=992px (Desktop)
+		Small -> sm - >=768    (Tablets)
+		xs -> Extral Small <=768 (Phones)
+			
+	5. Bootstrap Grid Examples
+	
+	
 	
 	
