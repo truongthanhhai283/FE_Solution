@@ -13,8 +13,9 @@
 		https://realfavicongenerator.net/
 		https://codepen.io/
 	
-	3. Fonts
+	3. Fonts & icons
 		https://fonts.google.com/
+		https://fontawesome.com/v4.7.0/
 
 # 1. Getting Started!
 	1. Course Introduction
@@ -107,6 +108,8 @@
 
 # 8. Setting Up Fonts, Colors & Icons
 	1. Choose Right Fonts
+	
+	3. Choose Right Icons
 	
 	
 	
