@@ -24,6 +24,9 @@
 		
 	5. Background Video
 		http://converterpoint.com/
+		
+	6. Home
+		Overlay example: https://www.w3schools.com/howto/howto_css_overlay.asp
 	
 # 1. Getting Started!
 	1. Course Introduction
@@ -140,3 +143,5 @@
 	3. Write HTML (Part 1) - Home
 	
 	4. Apply CSS (Part 1) - Home
+	
+	5. Write HTML (Part 2) - Home
