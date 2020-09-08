@@ -137,5 +137,4 @@
 	
 	2. Setup Background Video - Home
 	
-
-	
+	3. Write HTML (Part 1) - Home
