@@ -13,7 +13,8 @@
 		https://realfavicongenerator.net/
 		https://codepen.io/
 	
-	
+	3. Fonts
+		https://fonts.google.com/
 
 # 1. Getting Started!
 	1. Course Introduction
@@ -103,5 +104,11 @@
 	5. Bootstrap Grid Examples
 	
 	6. Know About Web Development Resources
+
+# 8. Setting Up Fonts, Colors & Icons
+	1. Choose Right Fonts
+	
+	
+	
 	
 	
