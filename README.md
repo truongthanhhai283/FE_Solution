@@ -13,9 +13,11 @@
 		https://realfavicongenerator.net/
 		https://codepen.io/
 	
-	3. Fonts & icons
+	3. Fonts & icons & colors
 		https://fonts.google.com/
 		https://fontawesome.com/v4.7.0/
+		https://coolors.co/
+		https://www.color-blindness.com/color-name-hue/
 
 # 1. Getting Started!
 	1. Course Introduction
@@ -111,7 +113,7 @@
 	
 	3. Choose Right Icons
 	
-	
+	4. Choose Right Colors
 	
 	
 	
