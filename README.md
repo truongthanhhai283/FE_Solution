@@ -115,5 +115,10 @@
 	
 	4. Choose Right Colors
 	
+# 9. Solo - Creative Responsive Website
+
+#10. Building Preloader for Website
+	1. Introduction - Preloader
 	
+	2. Write HTML - Preloader
 	
