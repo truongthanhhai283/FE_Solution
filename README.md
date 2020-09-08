@@ -19,6 +19,9 @@
 		https://coolors.co/
 		https://www.color-blindness.com/color-name-hue/
 
+	4. Link To Loading Icons
+		https://loading.io/
+	
 # 1. Getting Started!
 	1. Course Introduction
 	2. View Project Demo
@@ -122,3 +125,4 @@
 	
 	2. Write HTML - Preloader
 	
+	3. Apply CSS - Preloader
