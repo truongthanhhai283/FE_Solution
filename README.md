@@ -150,3 +150,5 @@
 	5. Write HTML (Part 2) - Home
 	
 	6. Apply CSS (Part 2) - Home
+	
+	7. Apply CSS (Part 3) - Home
