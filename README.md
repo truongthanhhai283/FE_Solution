@@ -138,3 +138,5 @@
 	2. Setup Background Video - Home
 	
 	3. Write HTML (Part 1) - Home
+	
+	4. Apply CSS (Part 1) - Home
