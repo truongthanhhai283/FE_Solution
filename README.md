@@ -21,6 +21,9 @@
 
 	4. Link To Loading Icons
 		https://loading.io/
+		
+	5. Background Video
+		http://converterpoint.com/
 	
 # 1. Getting Started!
 	1. Course Introduction
@@ -120,7 +123,7 @@
 	
 # 9. Solo - Creative Responsive Website
 
-#10. Building Preloader for Website
+# 10. Building Preloader for Website
 	1. Introduction - Preloader
 	
 	2. Write HTML - Preloader
@@ -128,3 +131,11 @@
 	3. Apply CSS - Preloader
 	
 	4. Hide Preloader Using jQuery
+	
+# 11. Building Home Section
+	1. Introduction - Home
+	
+	2. Setup Background Video - Home
+	
+
+	
