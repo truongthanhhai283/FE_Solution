@@ -126,3 +126,5 @@
 	2. Write HTML - Preloader
 	
 	3. Apply CSS - Preloader
+	
+	4. Hide Preloader Using jQuery
