@@ -31,6 +31,9 @@
 		Bootstrap Buttons: https://getbootstrap.com/docs/3.3/css/#buttons
 		Bootstrap Alignment Classes: https://getbootstrap.com/docs/3.3/css/#type-alignment
 		Vertical Centering With CSS: http://vanseodesign.com/css/vertical-centering/
+	
+	7. About
+		Bootstrap Responsive Images: https://getbootstrap.com/docs/3.3/css/#images-responsive
 # 1. Getting Started!
 	1. Course Introduction
 	2. View Project Demo
@@ -152,3 +155,8 @@
 	6. Apply CSS (Part 2) - Home
 	
 	7. Apply CSS (Part 3) - Home
+
+# 12. Building About Section
+	1. Introduction - About
+	
+	2. Write HTML (Part 1) - About
