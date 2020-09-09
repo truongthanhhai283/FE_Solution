@@ -160,3 +160,5 @@
 	1. Introduction - About
 	
 	2. Write HTML (Part 1) - About
+	
+	3. Apply CSS (Part 1) - About
