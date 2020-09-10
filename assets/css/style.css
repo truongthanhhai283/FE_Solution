@@ -312,3 +312,13 @@ section {
     -webkit-transition: all 400ms ease-in-out;
     transition: all 400ms ease-in-out;
 }
+
+
+/* ==============================================================
+                            team-members
+================================================================= */
+
+.team-member img {
+    width: 230px;
+    height: 200px;
+}

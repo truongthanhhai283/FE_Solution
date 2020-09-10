@@ -34,6 +34,10 @@
 	
 	7. About
 		Bootstrap Responsive Images: https://getbootstrap.com/docs/3.3/css/#images-responsive
+		
+	8. Team
+		Jquery Owl Carousel 2: https://owlcarousel2.github.io/OwlCarousel2/
+		
 # 1. Getting Started!
 	1. Course Introduction
 	2. View Project Demo
@@ -173,3 +177,7 @@
 	1. Introduction - Team
 	
 	2. Write HTML (Part 1) - Team
+	
+	3. Add jQuery Slider (Part 1) - Team
+	
+	4. Add jQuery Slider (Part 2) - Team
