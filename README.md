@@ -166,3 +166,5 @@
 	4. Write HTML (Part 2) - About
 	
 	5. Apply CSS (Part 2) - About
+	
+	6. Apply CSS (Part 3) - About

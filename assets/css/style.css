@@ -256,8 +256,8 @@ section {
 .about-item {
     background-color: #FFFFFF;
     padding: 80px 30px;
-    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0., .2);
-    box-shadow: 0 0 10px rgba(0, 0, 0., .2);
+    -webkit-box-shadow: 0 0 10px rgba(0, 0, 0., .1);
+    box-shadow: 0 0 10px rgba(0, 0, 0., .1);
 }
 
 .about-item i {
@@ -280,4 +280,35 @@ section {
 
 .about-item p {
     margin-top: 20px;
+}
+
+
+/* Hover state */
+
+.about-item:hover {
+    background-color: #FCA311;
+}
+
+.about-item:hover i,
+.about-item:hover h3,
+.about-item:hover p {
+    color: #fff;
+}
+
+.about-item:hover i {
+    transform: translateY(-20px)
+}
+
+.about-item:hover hr {
+    background-color: #fff;
+}
+
+
+/* smooth transition */
+
+.about-item,
+.about-item i,
+.about-item hr {
+    -webkit-transition: all 400ms ease-in-out;
+    transition: all 400ms ease-in-out;
 }
