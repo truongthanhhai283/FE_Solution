@@ -168,3 +168,8 @@
 	5. Apply CSS (Part 2) - About
 	
 	6. Apply CSS (Part 3) - About
+	
+# 13. Building Team Section
+	1. Introduction - Team
+	
+	2. Write HTML (Part 1) - Team
