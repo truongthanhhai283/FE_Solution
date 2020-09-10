@@ -183,3 +183,5 @@
 	4. Add jQuery Slider (Part 2) - Team
 	
 	5. Apply CSS (Part 1) - Team
+
+	6. Apply CSS (Part 2) - Team
