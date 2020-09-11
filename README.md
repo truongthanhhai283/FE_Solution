@@ -186,3 +186,7 @@
 	5. Apply CSS (Part 1) - Team
 
 	6. Apply CSS (Part 2) - Team
+
+	7. Write HTML (Part 2) - Team
+
+	8. Apply CSS (Part 3) - Team
