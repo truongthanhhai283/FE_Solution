@@ -190,3 +190,5 @@
 	7. Write HTML (Part 2) - Team
 
 	8. Apply CSS (Part 3) - Team
+
+	9. Add jQuery Animation - Team

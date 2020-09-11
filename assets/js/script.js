@@ -21,3 +21,14 @@ $(function() {
         navText: ['Pre', 'Next']
     });
 });
+
+/*==================================================
+                    Process Bars
+==================================================== */
+$(function() {
+    $(".progress-bar").each(function() {
+        $(this).animate({
+            width: $(this).attr("aria-valuenow") + "%"
+        }, 1500);
+    });
+});
