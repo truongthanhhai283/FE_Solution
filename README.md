@@ -37,6 +37,7 @@
 		
 	8. Team
 		Jquery Owl Carousel 2: https://owlcarousel2.github.io/OwlCarousel2/
+		Bootstrap Progress Bars : https://getbootstrap.com/docs/3.3/components/#progress
 		
 # 1. Getting Started!
 	1. Course Introduction
