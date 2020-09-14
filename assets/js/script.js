@@ -37,3 +37,12 @@ $(function() {
         offset: 'bottom-in-view'
     });
 });
+
+/*==================================================
+                    Responsive tabs
+==================================================== */
+$(function() {
+    $('#services-tabs').responsiveTabs({
+        animation: 'slide',
+    });
+});

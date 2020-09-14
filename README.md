@@ -42,6 +42,9 @@
 		
 	9. Statement
 		How to add custome code VSCOde; https://stackoverflow.com/questions/29995863/how-to-add-custom-code-snippets-in-vscode
+	
+	10. Services
+		Responsive Tabs: http://jellekralt.github.io/Responsive-Tabs/
 		
 # 1. Getting Started!
 	1. Course Introduction
@@ -216,3 +219,5 @@
 	3. Apply CSS (Part 1) - Services
 	
 	4. Write HTML (Part 2) - Services
+	
+	5. Add jQuery Responsive Tabs - Services
