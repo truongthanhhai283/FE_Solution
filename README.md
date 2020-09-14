@@ -195,3 +195,9 @@
 	9. Add jQuery Animation - Team
 	
 	10. jQuery Animation On Scroll - Team
+
+# 14. Building Statement Section
+	1. Introduction - Statement
+	
+	2. Write HTML - Statement
+	
