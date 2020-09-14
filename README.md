@@ -223,3 +223,5 @@
 	5. Add jQuery Responsive Tabs - Services
 	
 	6. Apply CSS (Part 2) - Services
+	
+	7. Apply CSS (Part 3) - Services
