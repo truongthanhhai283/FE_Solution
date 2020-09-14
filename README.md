@@ -225,3 +225,8 @@
 	6. Apply CSS (Part 2) - Services
 	
 	7. Apply CSS (Part 3) - Services
+
+# 16. Building Work Section
+	1. Introduction - Work
+	
+	2. Write HTML - Work
