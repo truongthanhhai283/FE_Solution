@@ -208,3 +208,9 @@
 
 	4. Create Code Snippets (User snippets-in-vscode): Add snippets-in-vscode
 	
+# 15. Building Services Section
+	1. Introduction - Services
+	
+	2. Write HTML (Part 1) - Services
+	
+	3. Apply CSS (Part 1) - Services
