@@ -40,6 +40,9 @@
 		Bootstrap Progress Bars : https://getbootstrap.com/docs/3.3/components/#
 		waypoints: http://imakewebthings.com/waypoints/
 		
+	9. Statement
+		How to add custome code VSCOde; https://stackoverflow.com/questions/29995863/how-to-add-custom-code-snippets-in-vscode
+		
 # 1. Getting Started!
 	1. Course Introduction
 	2. View Project Demo
@@ -202,4 +205,6 @@
 	2. Write HTML - Statement
 
 	3. Apply CSS - Statement
+
+	4. Create Code Snippets (User snippets-in-vscode): Add snippets-in-vscode
 	
