@@ -200,4 +200,6 @@
 	1. Introduction - Statement
 	
 	2. Write HTML - Statement
+
+	3. Apply CSS - Statement
 	
