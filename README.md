@@ -221,3 +221,5 @@
 	4. Write HTML (Part 2) - Services
 	
 	5. Add jQuery Responsive Tabs - Services
+	
+	6. Apply CSS (Part 2) - Services
