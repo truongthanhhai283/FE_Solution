@@ -736,8 +736,11 @@ ul.social-list li:nth-child(3) a:hover {
     color: -webkit-zoom-in;
     color: zoom-in;
     opacity: 0;
-    -webkit-transition: all 0.8s ease;
-    transition: all 0.8s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    -ms-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
 }
 
 
@@ -760,6 +763,8 @@ ul.social-list li:nth-child(3) a:hover {
     padding: 0;
     -webkit-transform: translateY(-20%);
     transform: translateY(-20%);
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
 }
 
 .portfolio-item-details span {
@@ -779,8 +784,8 @@ ul.social-list li:nth-child(3) a:hover {
     padding: 0;
     -webkit-transform: translateY(20%);
     transform: translateY(20%);
-    transition: all 0.8s;
-    -webkit-transition: all 0.8s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
 }
 
 

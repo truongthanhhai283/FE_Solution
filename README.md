@@ -252,3 +252,5 @@
 	9. Add Overlay Effect (Part 1) - Work
 
 	10. Add Overlay Effect (Part 2) - Work
+
+	11. Minor Fix - Work
