@@ -237,4 +237,6 @@
 
 	3. Apply CSS - Work
 
-	4. Add jQuery Filter (Part 1) - Work
+	4,5. Add jQuery Filter (Part 1 + 2) - Work
+
+	6. Apply CSS To Filters - Work
