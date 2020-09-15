@@ -230,3 +230,5 @@
 	1. Introduction - Work
 	
 	2. Write HTML - Work
+
+	3. Apply CSS - Work

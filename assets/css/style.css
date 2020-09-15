@@ -655,3 +655,26 @@ ul.social-list li:nth-child(3) a:hover {
     line-height: 24px;
     margin-bottom: 30px;
 }
+
+
+/*==================================================
+                    Portfolio
+==================================================== */
+
+#portfolio {}
+
+#portfolio .vertical-heading {
+    margin-bottom: 50px;
+}
+
+.row.no-guitters [class*="col-"] {
+    padding: 0;
+}
+
+#portfolio-wrapper {}
+
+.portfolio-item {}
+
+.portfolio-item-overlay {}
+
+.portfolio-item-details {}
