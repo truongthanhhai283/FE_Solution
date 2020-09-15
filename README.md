@@ -250,3 +250,5 @@
 	8. Add jQuery Magnifier - Work
 
 	9. Add Overlay Effect (Part 1) - Work
+
+	10. Add Overlay Effect (Part 2) - Work
