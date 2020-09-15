@@ -661,14 +661,16 @@ ul.social-list li:nth-child(3) a:hover {
                     Portfolio
 ==================================================== */
 
-#portfolio {}
-
 #portfolio .vertical-heading {
     margin-bottom: 50px;
 }
 
 .row.no-guitters [class*="col-"] {
     padding: 0;
+}
+
+.portfolio-item {
+    overflow: hidden;
 }
 
 
@@ -700,4 +702,21 @@ ul.social-list li:nth-child(3) a:hover {
 #isotope-filters button.active span {
     border-bottom: 3px solid #FCA311;
     color: #FCA311;
+}
+
+
+/* Zoom Effect */
+
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    -webkit-transition: -webkit-transform .5s ease;
+    transition: -webkit-transform .5s ease;
+    transition: transform .5s ease;
+    transition: transform .5s ease, -webkit-transform .5s ease;
+}
+
+.portfolio-item:hover img {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
 }

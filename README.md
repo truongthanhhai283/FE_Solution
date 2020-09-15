@@ -240,3 +240,5 @@
 	4,5. Add jQuery Filter (Part 1 + 2) - Work
 
 	6. Apply CSS To Filters - Work
+	
+	7. Add Zoom Effect - Work
