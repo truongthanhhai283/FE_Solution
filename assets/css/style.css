@@ -671,6 +671,7 @@ ul.social-list li:nth-child(3) a:hover {
 
 .portfolio-item {
     overflow: hidden;
+    position: relative;
 }
 
 
@@ -719,4 +720,53 @@ ul.social-list li:nth-child(3) a:hover {
 .portfolio-item:hover img {
     -webkit-transform: scale(1.1);
     transform: scale(1.1);
+}
+
+
+/* portfolio-item-overlay effect */
+
+.portfolio-item-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(14, 14, 17, 0.9);
+    color: -webkit-zoom-in;
+    color: zoom-in;
+}
+
+
+/* portfolio-item-details effect */
+
+.portfolio-item-details {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+}
+
+.portfolio-item-details h3 {
+    color: #FCA311;
+    text-transform: uppercase;
+    font-size: 30px;
+    margin: 0;
+    padding: 0;
+}
+
+.portfolio-item-details span {
+    display: inline-block;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+    height: 6px;
+    width: 30px;
+    margin: 12px auto 5px auto;
+}
+
+.portfolio-item-details p {
+    font-size: 12px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
 }

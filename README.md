@@ -248,3 +248,5 @@
 	7. Add Zoom Effect - Work
 
 	8. Add jQuery Magnifier - Work
+
+	9. Add Overlay Effect (Part 1) - Work
