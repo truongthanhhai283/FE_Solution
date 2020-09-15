@@ -45,6 +45,10 @@
 	
 	10. Services
 		Responsive Tabs: http://jellekralt.github.io/Responsive-Tabs/
+
+	11. Work
+		jQuery Filter: https://isotope.metafizzy.co/
+						https://isotope.metafizzy.co/filtering.html
 		
 # 1. Getting Started!
 	1. Course Introduction
@@ -232,3 +236,5 @@
 	2. Write HTML - Work
 
 	3. Apply CSS - Work
+
+	4. Add jQuery Filter (Part 1) - Work
