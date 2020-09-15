@@ -48,8 +48,12 @@
 
 	11. Work
 		jQuery Filter: https://isotope.metafizzy.co/
-						https://isotope.metafizzy.co/filtering.html
+		               https://isotope.metafizzy.co/filtering.html
 		
+		magnific-popup: https://dimsemenov.com/plugins/magnific-popup/
+		magnific-popup github page: https://github.com/dimsemenov/Magnific-Popup
+
+
 # 1. Getting Started!
 	1. Course Introduction
 	2. View Project Demo
@@ -242,3 +246,5 @@
 	6. Apply CSS To Filters - Work
 	
 	7. Add Zoom Effect - Work
+
+	8. Add jQuery Magnifier - Work

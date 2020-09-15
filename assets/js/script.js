@@ -71,3 +71,19 @@ $(window).on('load', function() {
         $(this).addClass('active');
     });
 });
+
+/*==================================================
+                    jQuery Magnifier
+==================================================== */
+$(function() {
+
+    $("#portfolio-wrapper").magnificPopup({
+        delegate: 'a', //child iteam selection, by clicking on it popup will open
+        type: 'image',
+        // other options
+        gallery: {
+            enabled: true
+        }
+    });
+
+});
