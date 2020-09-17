@@ -261,3 +261,5 @@
 	2. Write HTML - Testimonials
 
 	3. Add jQuery Slider - Testimonials
+
+	4. Apply CSS - Testimonials
