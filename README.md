@@ -254,3 +254,8 @@
 	10. Add Overlay Effect (Part 2) - Work
 
 	11. Minor Fix - Work
+
+# 17. Building Testimonials Section
+	1. Introduction - Testimonials
+
+	2. Write HTML - Testimonials
