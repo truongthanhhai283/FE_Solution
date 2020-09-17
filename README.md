@@ -259,3 +259,5 @@
 	1. Introduction - Testimonials
 
 	2. Write HTML - Testimonials
+
+	3. Add jQuery Slider - Testimonials

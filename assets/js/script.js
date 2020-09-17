@@ -87,3 +87,19 @@ $(function() {
     });
 
 });
+
+/*==================================================
+                    jQuery Testimonials
+==================================================== */
+$(function() {
+    $("#testimonial-slider").owlCarousel({
+        items: 1,
+        nav: true,
+        autoplay: false,
+        smartSpeed: 700,
+        loop: true,
+        autoplayHoverPause: true,
+        dots: false,
+        navText: ['Pre', 'Next']
+    });
+});
