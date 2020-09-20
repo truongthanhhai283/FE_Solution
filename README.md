@@ -263,3 +263,8 @@
 	3. Add jQuery Slider - Testimonials
 
 	4. Apply CSS - Testimonials
+
+# 18. Building Pricing Section
+	1. Introduction - Pricing
+
+	2. Write HTML - Pricing
