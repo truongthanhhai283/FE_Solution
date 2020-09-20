@@ -174,9 +174,23 @@ section {
 .btn-yellow:hover,
 .btn-yellow:focus {
     color: #fff;
+    background-color: #fff;
+    border: 1px solid #fff;
+}
+
+.btn-white {
+    color: #212226;
+    border: 1px solid #fff;
+    background-color: #fff;
+}
+
+.btn-white:hover,
+.btn-white:focus {
+    color: #fff;
     background-color: #212226;
     border: 1px solid #212226;
 }
+
 
 
 /* ==============================================================
@@ -914,7 +928,7 @@ ul.social-list li:nth-child(3) a:hover {
 
 .pricing-table .price h2 span.dollar{
     font-size: 18px;
-    font-weight: 100;
+    font-weight: 300;
     position: absolute;
     left: -20px;
     top: 5px;
@@ -951,7 +965,8 @@ ul.social-list li:nth-child(3) a:hover {
     width: 24px;
 }
 
-.pricing-table .btn-yellow{
+.pricing-table .btn-yellow,
+.pricing-table.black .btn-white{
     width: 96%;
 }
 
@@ -969,13 +984,26 @@ ul.social-list li:nth-child(3) a:hover {
     border: 1px solid #fff;
 }
 
-.pricing-table .btn-yellow:hover {
+.pricing-table .btn-yellow:hover,
+.pricing-table .btn-yellow:focus {
     background: #212226;
     color: #fff;
     border: 1px solid #FCA311;
 }
 
+/* .pricing-table black */
+.pricing-table.black {
+    background: black;
+    color: #fff;
+}
 
+.pricing-table.black .type h4{
+    color: #fff;
+}
+
+.pricing-table.black:hover{
+    background: #FCA311;
+}
 
 
 

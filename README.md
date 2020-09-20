@@ -1,6 +1,8 @@
 # FE_Solution
 
 #Tips 
+	Call 2 class ngang hàng -> class1.class2 (. sát 2 class)
+
 	1. Creating Wireframe Of Website
 		1. https://moqups.com/
 		2. https://wireframes.tumblr.com/
@@ -272,3 +274,6 @@
 	3. Apply CSS (Part 1) - Pricing
 
 	4. Apply CSS (Part 2) - Pricing
+	
+	5. Apply CSS (Part 3) - Pricing
+	
