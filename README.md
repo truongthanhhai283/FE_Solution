@@ -270,3 +270,5 @@
 	2. Write HTML - Pricing
 
 	3. Apply CSS (Part 1) - Pricing
+
+	4. Apply CSS (Part 2) - Pricing

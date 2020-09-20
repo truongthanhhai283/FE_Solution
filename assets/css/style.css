@@ -886,7 +886,6 @@ ul.social-list li:nth-child(3) a:hover {
 
 .pricing-table:hover{
     background: #FCA311;
-   
 }
 
 .pricing-table .type h4{
@@ -935,6 +934,48 @@ ul.social-list li:nth-child(3) a:hover {
   margin: 0;
   padding: 0;
 }
+
+.pricing-table ul.package{
+    list-style: none;
+    padding: 20px 0;
+}
+
+.pricing-table ul.package li{
+    font-family: "Open Sans",sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 40px;
+}
+
+.pricing-table ul.package li i{
+    width: 24px;
+}
+
+.pricing-table .btn-yellow{
+    width: 96%;
+}
+
+.pricing-table:hover h4,
+.pricing-table:hover h2,
+.pricing-table:hover p,
+.pricing-table:hover ul.package
+{
+    color: #FFFFFF;
+}
+
+.pricing-table:hover .btn-yellow{
+    background: #FFFFFF;
+    color: #FCA311;
+    border: 1px solid #fff;
+}
+
+.pricing-table .btn-yellow:hover {
+    background: #212226;
+    color: #fff;
+    border: 1px solid #FCA311;
+}
+
+
 
 
 
