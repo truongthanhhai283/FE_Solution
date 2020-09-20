@@ -268,3 +268,5 @@
 	1. Introduction - Pricing
 
 	2. Write HTML - Pricing
+
+	3. Apply CSS (Part 1) - Pricing
