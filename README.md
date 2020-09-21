@@ -283,3 +283,5 @@
 	2. Write HTML - Stats
 
 	3. Apply CSS - Stats
+
+	4. Add jQuery Counter - Stats
