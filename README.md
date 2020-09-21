@@ -285,3 +285,8 @@
 	3. Apply CSS - Stats
 
 	4. Add jQuery Counter - Stats
+
+# 20. Building Clients Section
+	1. Introduction - Clients
+
+	2. Write HTML - Clients
