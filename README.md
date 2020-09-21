@@ -292,3 +292,5 @@
 	2. Write HTML - Clients
 
 	3. Add jQuery Slider - Clients
+
+	4. Apply CSS - Clients
