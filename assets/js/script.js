@@ -129,3 +129,34 @@ $(function() {
         navText: ['Pre', 'Next']
     });
 });
+
+/*==================================================
+                    Google map
+==================================================== */
+$(window).on('load',function(){
+
+    // map variables
+    var addressString='Phó Đức Chính, An Hải, An Hải Bắc, Sơn Trà, Da Nang';
+    var myLating = {lat: 16.082760, lng: 108.239790};
+
+    // 1. Render map
+    var map = new google.maps.Map(
+        document.getElementById('map'), {
+            zoom: 11, 
+            center: myLating
+        });
+   
+    // 2 add market
+    var infowindow = new google.maps.InfoWindow({
+        content: addressString
+      });
+    
+      var marker = new google.maps.Marker({
+        position: myLating,
+        map: map,
+        title: 'myLating'
+      });
+      marker.addListener('click', function() {
+        infowindow.open(map, marker);
+      });
+});

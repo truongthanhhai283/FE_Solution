@@ -55,6 +55,18 @@
 		magnific-popup: https://dimsemenov.com/plugins/magnific-popup/
 		magnific-popup github page: https://github.com/dimsemenov/Magnific-Popup
 
+	12. Google Map
+		Emmet Extension: 
+			https://docs.emmet.io/
+			https://docs.emmet.io/cheat-sheet/
+			https://emmet.io/
+
+		Google Map API
+			https://developers.google.com/maps/documentation/javascript/overview
+
+		Find Latitude & Longitude Tool
+			https://www.latlong.net/
+		
 
 # 1. Getting Started!
 	1. Course Introduction
@@ -312,3 +324,10 @@
 	4. Apply CSS (Part 1) - Contact
 
 	5. Apply CSS (Part 2) - Contact
+
+# 23. Building Map Section
+	1. Introduction - Map
+
+	2. Emmet Extension
+
+	3. Google Maps JavaScript API - Map

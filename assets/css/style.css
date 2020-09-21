@@ -1229,3 +1229,10 @@ ul.office-details li i{
 #contact-right form textarea.form-control{
     min-height: 160px;
 }
+
+/* ==============================================================
+                       Google Map
+================================================================= */
+#map{
+    height: 600px;
+}
