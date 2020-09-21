@@ -300,4 +300,4 @@
 
 	2. Write HTML - Blog
 
-	
+	3. Apply CSS - Blog
