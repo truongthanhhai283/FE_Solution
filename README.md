@@ -301,3 +301,8 @@
 	2. Write HTML - Blog
 
 	3. Apply CSS - Blog
+
+# 22. Building Contact  Section
+	1. Introduction - Contact
+
+	2. Write HTML (Part 1) - Contact
