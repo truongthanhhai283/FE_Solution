@@ -1202,3 +1202,30 @@ ul.office-details li i{
     color: #fff;
     border-color: transparent;
 }
+
+/* Contact Right */
+#contact-right{
+    padding: 24px 30px;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+    border-radius: 6px;
+}
+
+#contact-right h4{
+    font-size: 24px;
+}
+
+#contact-right p{
+    margin-bottom: 24px;
+}
+
+#contact-right form input.form-control{
+    font-family: "Open Sans",sans-serif;
+    padding: 10px 16px;
+    font-size: 12px;
+    line-height: 24px;
+}
+
+#contact-right form textarea.form-control{
+    min-height: 160px;
+}
