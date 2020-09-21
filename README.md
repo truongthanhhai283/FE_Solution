@@ -308,3 +308,5 @@
 	2. Write HTML (Part 1) - Contact
 
 	3. Write HTML (Part 2) - Contact
+
+	4. Apply CSS (Part 1) - Contact
