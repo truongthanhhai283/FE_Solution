@@ -306,3 +306,5 @@
 	1. Introduction - Contact
 
 	2. Write HTML (Part 1) - Contact
+
+	3. Write HTML (Part 2) - Contact

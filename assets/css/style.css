@@ -989,7 +989,8 @@ ul.social-list li:nth-child(3) a:hover {
 
 .pricing-table .btn-yellow:hover,
 .pricing-table .btn-yellow:focus,
-#blog-left .btn-yellow:hover {
+#blog-left .btn-yellow:hover,
+#submit-btn .btn-yellow:hover {
     background: #212226;
     color: #fff;
     border: 1px solid #FCA311;
