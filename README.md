@@ -290,3 +290,5 @@
 	1. Introduction - Clients
 
 	2. Write HTML - Clients
+
+	3. Add jQuery Slider - Clients
