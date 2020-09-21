@@ -294,3 +294,10 @@
 	3. Add jQuery Slider - Clients
 
 	4. Apply CSS - Clients
+
+# 21. Building Blog Section
+	1. Introduction - Blog
+
+	2. Write HTML - Blog
+
+	
