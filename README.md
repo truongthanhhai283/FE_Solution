@@ -281,3 +281,5 @@
 	1. Introduction - Stats
 
 	2. Write HTML - Stats
+
+	3. Apply CSS - Stats
