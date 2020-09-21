@@ -276,4 +276,8 @@
 	4. Apply CSS (Part 2) - Pricing
 	
 	5. Apply CSS (Part 3) - Pricing
-	
+
+# 19. Building Stats Section
+	1. Introduction - Stats
+
+	2. Write HTML - Stats
