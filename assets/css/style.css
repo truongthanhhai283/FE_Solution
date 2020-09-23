@@ -1283,3 +1283,22 @@ ul.navbar-nav > li > a:focus{
     background: none;
     color: #FCA311;
 }
+
+/* White nav */
+.white-nav-top{
+    background: #fff;
+    padding: 16px 0;
+    -webkit-box-shadow: 0 8px 6px -9px #999;
+    box-shadow:0 8px 6px -9px #999;
+    z-index: 2;
+}
+
+.white-nav-top ul.navbar-nav > li > a{
+    color: #212226 ;
+}
+
+.white-nav-top ul.navbar-nav > li > a:hover,
+.white-nav-top ul.navbar-nav > li > a:focus{
+    background: none;
+    color: #FCA311;
+}
