@@ -357,3 +357,5 @@
 	6. Add ScrollSpy Effect - Navigation
 
 	7. Add Smooth Scrolling Using JQuery - Navigation
+
+	8. Add Back To Top Button - Navigation

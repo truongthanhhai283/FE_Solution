@@ -184,15 +184,20 @@ $(function() {
     
             //  show img dark logo
             $(".navbar-brand img").attr("src","./assets/img/logo/logo-dark.png");
-           }
-    
-           else{
-                // Hide white nav
-                $("nav").removeClass("white-nav-top");           
 
-                 //  show img logo
-                 $(".navbar-brand img").attr("src","./assets/img/logo/logo.png")
-           }
+            // Show back to top button
+            $("#back-to-top").fadeIn();
+        }
+    
+        else{
+            // Hide white nav
+            $("nav").removeClass("white-nav-top");           
+
+            //  show img logo
+            $(".navbar-brand img").attr("src","./assets/img/logo/logo.png");
+
+            $("#back-to-top").fadeOut();
+        }
     }
 
 });
