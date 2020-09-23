@@ -359,3 +359,8 @@
 	7. Add Smooth Scrolling Using JQuery - Navigation
 
 	8. Add Back To Top Button - Navigation
+
+# 26. Perfecting Responsive Layout	
+	1. Introduction - Responsive
+
+	2. Media Queries - Responsive
