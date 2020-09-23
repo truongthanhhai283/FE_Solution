@@ -69,6 +69,8 @@
 	
 	13. Nav
 		navbar-fixed-top: fix nav on top
+		jQuery Easing Plugin (version 1.3): https://gsgd.co.uk/sandbox/jquery/easing/
+
 
 # 1. Getting Started!
 	1. Course Introduction
@@ -353,3 +355,5 @@
 	5. Show & Hide White Navigation Using jQuery - Navigation
 
 	6. Add ScrollSpy Effect - Navigation
+
+	7. Add Smooth Scrolling Using JQuery - Navigation

@@ -65,13 +65,13 @@
                     <div class="container">
                         <div class="collapse navbar-collapse">
                             <ul class="nav navbar-nav pull-right">
-                                <li><a href="#home">Home</a></li>
-                                <li><a href="#about">About</a></li>
-                                <li><a href="#team">Team</a></li>
-                                <li><a href="#services">Services</a></li>
-                                <li><a href="#work">Work</a></li>
-                                <li><a href="#blog">Blog</a></li>
-                                <li><a href="#contact">Contact</a></li>
+                                <li><a class="smooth-scroll" href="#home">Home</a></li>
+                                <li><a class="smooth-scroll" href="#about">About</a></li>
+                                <li><a class="smooth-scroll" href="#team">Team</a></li>
+                                <li><a class="smooth-scroll" href="#services">Services</a></li>
+                                <li><a class="smooth-scroll" href="#portfolio">Work</a></li>
+                                <li><a class="smooth-scroll" href="#blog">Blog</a></li>
+                                <li><a class="smooth-scroll" href="#contact">Contact</a></li>
                             </ul>
                         </div>
                     </div>
@@ -112,13 +112,13 @@
                 </div>
 
                 <div id="home-btn">
-                    <a class="btn btn-general btn-home" href="#about" title="Start Now" role="button">Start Now</a>
+                    <a class="btn btn-general btn-home smooth-scroll" href="#about" title="Start Now" role="button">Start Now</a>
                 </div>
             </div>
         </div>
 
         <!-- Arrow Down -->
-        <a href="#about" id="arrow-down">
+        <a href="#about" id="arrow-down" class="smooth-scroll">
             <i class="fas fa-chevron-down"></i>
         </a>
 
@@ -1910,6 +1910,9 @@
     <script defer
         src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDTBxSZZ57zUzhNqopppWg5j3iJP2JQLS8&callback=initMap">
     </script>
+
+    <!-- Jquery easing -->
+    <script src="./assets/js/easing/jquery.easing.1.3.js"></script>
 
     <!-- Custom Javascript -->
     <script src="./assets/js/script.js"></script>
