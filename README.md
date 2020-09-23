@@ -370,3 +370,5 @@
 	4. Medium Devices - Responsive
 
 	5. Small Devices (Part 1) - Responsive
+
+	6. Small Devices (Part 2) - Responsive
