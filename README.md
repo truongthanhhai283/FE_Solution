@@ -66,7 +66,9 @@
 
 		Find Latitude & Longitude Tool
 			https://www.latlong.net/
-		
+	
+	13. Nav
+		navbar-fixed-top: fix nav on top
 
 # 1. Getting Started!
 	1. Course Introduction
@@ -338,3 +340,8 @@
 	2. Write HTML - Footer
 
 	3. Apply CSS - Footer
+
+# 25. Building Navigation Section
+	1. Introduction - Navigation
+
+	2. Write HTML - Navigation
