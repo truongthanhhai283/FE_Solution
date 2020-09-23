@@ -160,3 +160,39 @@ $(window).on('load',function(){
         infowindow.open(map, marker);
       });
 });
+
+/*==================================================
+                    Navigation
+==================================================== */
+$(function() {
+
+    // Show/hide nav on page load
+    showSlideNav();
+
+    $(window).scroll(function (){
+        
+         // Show/hide nav on windows scrollTop
+        showSlideNav();
+     
+    });
+
+    function showSlideNav() {
+        if($(window).scrollTop() > 50) {
+            
+            // Show white nav
+            $("nav").addClass("white-nav-top");
+    
+            //  show img dark logo
+            $(".navbar-brand img").attr("src","./assets/img/logo/logo-dark.png");
+           }
+    
+           else{
+                // Hide white nav
+                $("nav").removeClass("white-nav-top");           
+
+                 //  show img logo
+                 $(".navbar-brand img").attr("src","./assets/img/logo/logo.png")
+           }
+    }
+
+});

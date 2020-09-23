@@ -349,3 +349,5 @@
 	3. Apply CSS - Navigation
 
 	4. Create White Navigation - Navigation
+
+	5. Show & Hide White Navigation Using jQuery - Navigation
