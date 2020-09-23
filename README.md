@@ -366,3 +366,7 @@
 	2. Media Queries - Responsive
 
 	3. Large Devices - Responsive
+
+	4. Medium Devices - Responsive
+
+	5. Small Devices (Part 1) - Responsive

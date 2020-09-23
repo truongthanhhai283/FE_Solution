@@ -18,7 +18,18 @@ $(function() {
         loop: true,
         autoplayHoverPause: true,
         dots: false,
-        navText: ['Pre', 'Next']
+        navText: ['Pre', 'Next'],
+        responsive:{
+            // Breakpoint from 0 up
+            0:{
+                items: 1,
+            },
+
+             // Breakpoint from 480 up
+            480:{
+                items: 2,
+            }
+        }
     });
 });
 

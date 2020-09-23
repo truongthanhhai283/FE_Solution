@@ -37,8 +37,33 @@
 }
 
 /* Small Devices (Portralt Tablets & Small Desktops) */
-@media (min-width:768px) and (max-width:992px){
+@media (min-width:768px) and (max-width:991px){
    
+    /* Navigation */
+      .site-nav-wrapper{
+        padding: 0;
+    }
+
+    /* Home */
+    #home-heading h1{
+        font-size: 30px;
+    }
+
+    #home-text p{
+        font-size: 13px;
+    }
+
+    /* Generic */
+    .btn-general{
+        padding: 8px 36px 8px 36px;
+        font-size: 18px;
+    }
+
+    /* Generic */
+    .vertical-heading h2{
+        font-size: 30px;
+    }
+
 }
 
 /* Extra Small Devices (Portralt Phones & Small Tablets) */
