@@ -351,3 +351,5 @@
 	4. Create White Navigation - Navigation
 
 	5. Show & Hide White Navigation Using jQuery - Navigation
+
+	6. Add ScrollSpy Effect - Navigation

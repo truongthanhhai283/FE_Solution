@@ -1302,3 +1302,9 @@ ul.navbar-nav > li > a:focus{
     background: none;
     color: #FCA311;
 }
+
+/* scroll spy active state */
+.white-nav-top ul.navbar-nav > li.active > a{
+    color: #FCA311;
+    font-weight: 500;
+}
