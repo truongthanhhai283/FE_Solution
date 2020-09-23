@@ -331,3 +331,10 @@
 	2. Emmet Extension
 
 	3. Google Maps JavaScript API - Map
+
+# 24. Building Footer Section
+	1. Introduction - Footer
+
+	2. Write HTML - Footer
+
+	3. Apply CSS - Footer
