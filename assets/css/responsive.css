@@ -3,14 +3,37 @@
 ================================================================= */
 
 /* Large Devices (Desktop & Laptop) */
-@media (min-width: 1200px){
+@media (min-width: 1200px) and (max-width:1299px){
 
-    
+    /* Navigation */
+    .site-nav-wrapper{
+        padding: 0 20px;
+    }
+
 }
 
 /* Medium Devices (Landscape Tablets & Medium Desktops) */
 @media (min-width:992px) and (max-width:1199px){
   
+     /* Navigation */
+     .site-nav-wrapper{
+        padding: 0;
+    }
+
+    /* Generic */
+    .vertical-heading h2{
+        font-size: 28px;
+    }
+
+    /* Services 02 */
+    #services-tabs .tab-bg{
+        padding: 16px 30px;
+        min-height: 300px;
+    }
+
+    .service-tab p{
+        line-height: 20px;
+    }
 }
 
 /* Small Devices (Portralt Tablets & Small Desktops) */

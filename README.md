@@ -364,3 +364,5 @@
 	1. Introduction - Responsive
 
 	2. Media Queries - Responsive
+
+	3. Large Devices - Responsive
