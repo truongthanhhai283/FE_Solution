@@ -1253,3 +1253,33 @@ ul.office-details li i{
  footer p span{
      color: #FCA311;
  }
+
+ /* ==============================================================
+                       Navigation
+================================================================= */
+.navbar {
+    padding: 36px 0 20px 0;
+}
+
+.site-nav-wrapper{
+    padding: 0 84px;
+}
+
+.navbar-brand{
+    padding: 14px 16px;
+}
+
+ul.navbar-nav > li > a{
+    font-family: "Raleway",sans-serif;
+    color: #FFFFFF;
+    font-size: 13px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+ul.navbar-nav > li > a:hover,
+ul.navbar-nav > li > a:focus{
+    background: none;
+    color: #FCA311;
+}

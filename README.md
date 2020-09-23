@@ -345,3 +345,5 @@
 	1. Introduction - Navigation
 
 	2. Write HTML - Navigation
+
+	3. Apply CSS - Navigation
