@@ -18,7 +18,7 @@ $(function () {
         loop: true,
         autoplayHoverPause: true,
         dots: false,
-        navText: ['Pre', 'Next'],
+        navText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
         responsive: {
             // Breakpoint from 0 up
             0: {
@@ -111,7 +111,7 @@ $(function () {
         loop: true,
         autoplayHoverPause: true,
         dots: false,
-        navText: ['Pre', 'Next']
+        navText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
     });
 });
 
@@ -137,7 +137,7 @@ $(function () {
         loop: true,
         autoplayHoverPause: true,
         dots: false,
-        navText: ['Pre', 'Next']
+        navText: ['<i class="fas fa-angle-left"></i>', '<i class="fas fa-angle-right"></i>'],
     });
 });
 
