@@ -1875,7 +1875,7 @@
         <div class="container">
             <row>
                 <div class="col-md-12">
-                    <p><i class="fas fa-at"></i> 2020 <span>Truong Thanh Hai</span></p>
+                    <p><i class="fas fa-at"></i> <span id="getYear"></span> <span>Truong Thanh Hai</span></p>
                 </div>
             </row>
         </div>
@@ -1926,6 +1926,15 @@
 
     <!-- Custom Javascript -->
     <script src="./assets/js/script.js"></script>
+
+    <script>
+
+document.addEventListener("DOMContentLoaded", function(event) { 
+    var d = new Date();
+  var n = d.getFullYear();
+  document.getElementById("getYear").innerHTML = n;
+});
+   </script>
 </body>
 
 </html>
